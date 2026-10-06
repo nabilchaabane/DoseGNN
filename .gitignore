@@ -1,0 +1,8 @@
+﻿venv/
+graphs2/
+graphs2 - Copy/
+*.npz
+*.csv
+*.tar.gz
+*.png
+*.txt
